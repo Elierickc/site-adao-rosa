@@ -1,4 +1,4 @@
-# site Adão Rosa 
+# Site Adão Rosa 
 
 Welcome to the site Adão Rosa  repository! This is a modern React application utilizing TanStack Router for type-safe routing, Tailwind CSS for styling, and Vite for an optimized build process.
 
