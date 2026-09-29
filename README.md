@@ -1,6 +1,6 @@
-# Pixel Perfect Site
+# site Adão Rosa 
 
-Welcome to the **Pixel Perfect Site** repository! This is a modern React application utilizing TanStack Router for type-safe routing, Tailwind CSS for styling, and Vite for an optimized build process.
+Welcome to the site Adão Rosa  repository! This is a modern React application utilizing TanStack Router for type-safe routing, Tailwind CSS for styling, and Vite for an optimized build process.
 
 ## 🚀 Features
 - **Modern UI/UX:** Built with React, Tailwind CSS, and Shadcn UI components.
